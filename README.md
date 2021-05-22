@@ -6,3 +6,18 @@ Database for the Application is in "Database" folder. It can be imported to your
 Also configure the "connection.php" to set up the necessary connections with the database.
 
 More features are yet to be developed and implemented. Till then, Happy Coding :)
+
+**HOME**
+
+![](images/one.jpg)
+
+**HOME (CNTD.)**
+![](images/two.jpg)
+
+**CONTACT US**
+
+![](images/three.jpg)
+
+**SIGNUP**
+
+![](images/four.jpg)
